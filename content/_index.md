@@ -14,4 +14,4 @@ For general questions, please send email to the contact below who is the neareas
 
 ## Organizers Day 3 (upcoming EU call)
 
-- - Anne Fouilloux (Simula, annef_at_simula.no)
+- Anne Fouilloux (Simula, annef_at_simula.no)
