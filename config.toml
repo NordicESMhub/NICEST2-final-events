@@ -5,7 +5,7 @@
 base_url = "https://nordicesmhub.github.io/NICEST2-final-events/"
 
 # When adapting the title, do not forget to also adjust base_url above
-title = "NeIC NICEST2 Final Annual General Meeting"
+title = "NeIC NICEST2 Final Project Meeting"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
