@@ -2,20 +2,16 @@
 title = "Schedule"
 +++
 
-## Partners
+## ESMValTool Workshop Organizers
 
-Some partners offer local support, such as breakout rooms, to their local
-groups. [Become a partner](https://coderefinery.org/organization/partners/) to
-support your community!
-- [**Aalto University**](https://scicomp.aalto.fi/):
-  - Local in-person exercise session and local support.
-  - Possibility of [credit points](/certificates/) to those in Finland.
+For general questions, please send email to the contact below who is the neareast to you.
 
+- Yanchun He (NERSC, yanchun.he_at_nersc.no)
+- Alok Gupta (NORCE, algu_at_norceresearch.no)
+- Tomas Torsvik (UiB, Tomas.Torsvik_at_uib.no )
+- Anne Fouilloux (Simula, annef_at_simula.no)
+- Michael Schulz (MetNO, michaels_at_met.no)
 
-## Be an team leader
+## Organizers Day 3 (upcoming EU call)
 
-Do you know some of the topics, but want to review them, why not [attend as an
-team leader](/join/#volunteer-as-exercise-lead)?  You don't need to be an
-expert: if you have been through CodeRefinery once or have some familiarity
-with the topics, and you are confident to call an expert helper when needed,
-then you have all it takes to lead a team to success.
+- - Anne Fouilloux (Simula, annef_at_simula.no)

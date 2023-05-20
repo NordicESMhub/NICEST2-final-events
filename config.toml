@@ -2,10 +2,10 @@
 
 # this variable has to be set but it is not used
 # inside the templates (end in '/')
-base_url = "https://coderefinery.github.io/template-workshop-webpage/"
+base_url = "https://nordicesmhub.github.io/NICEST2-final-events/"
 
 # When adapting the title, do not forget to also adjust base_url above
-title = "Replace this title in config.toml"
+title = "NeIC NICEST2 Final Annual General Meeting"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -26,30 +26,24 @@ external_links_target_blank = true
 
 navigation = [
     { name = "About", target = "" },
-    { name = "Audience", target = "audience/" },
-    { name = "Certificates", target = "certificates/" },
-    { name = "How to join", target = "join/" },
-    { name = "Requirements", target = "requirements/" },
-    { name = "Q&A", target = "questions/" },
     { name = "Code of conduct", target = "code-of-conduct/" },
-    { name = "Communication", target = "communication/" }
 ]
 
-twitter_image = "https://raw.githubusercontent.com/coderefinery/coderefinery.org/main/content/logo/coderefinery.png"
+twitter_image = "https://raw.githubusercontent.com/NordicESMhub/nicest2/master/img/avatar-nicest2.png"
 
 # you can place multiple logos like this
 # the image file(s) need to be placed in content/logos
 logos = [
-#   { alt_text = "CodeRefinery logo", target_url = "https://coderefinery.org/", image = "coderefinery.png" },
-    { alt_text = "CodeRefinery logo", target_url = "https://coderefinery.org/", image = "coderefinery.png" }
+   { alt_text = "NeIC logo", target_url = "https://neic.no", image = "neic_logo.png" },
+   { alt_text = "NICEST2 logo", target_url = "https://nordicesmhub.github.io/nicest2/", image = "nicest2.png" }
 ]
 
 # adapt this
-registration_link = "https://example.org"
-source_repo = "https://github.com/coderefinery/template-workshop-webpage"
+registration_link = "https://forms.gle/QQx7Pi4J7nwNXnrM8"
+source_repo = "https://github.com/NordicESMHub/NICEST2-final-events"
 
 # uncomment as soon as registration opens
 # registration_is_open = true
 
 # uncomment as soon as registration closes
-# registration_is_closed = true
+registration_is_closed = true
